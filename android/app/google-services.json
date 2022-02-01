@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527420129091",
+    "project_id": "goair-da525",
+    "storage_bucket": "goair-da525.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527420129091:android:273bf23b2c7578bad979f6",
+        "android_client_info": {
+          "package_name": "com.example.goair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527420129091-ko4gk65easspectr92vc9443hqi97ruf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6urdDRXH9H3zl2Jhtsd8hocxeOP6dl4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527420129091-ko4gk65easspectr92vc9443hqi97ruf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
